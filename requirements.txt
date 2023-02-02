@@ -1,0 +1,4 @@
+git+https://github.com/ArtyomZemlyak/ai-common-utils@master#egg=ai-common-utils
+grpcio
+grpcio-tools
+numpy
